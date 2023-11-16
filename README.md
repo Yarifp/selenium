@@ -25,8 +25,8 @@ Las pruebas se realizaron con las siguientes herramientas y paquetes:
 ### Para instalar selenium hay que seguir estos pasos:
 
 
- ~$pip install selenium
-  Descargar el webdriver en:
+ ~$pip install selenium<br>
+  Descargar el webdriver en:<br>
   ~$https://chromedriver.chromium.org/downloads
    '''según la versión de google que se tenga, se debe descargar el webdriver que corresponde.'''
 
