@@ -34,7 +34,7 @@ Para instalar selenium hay que seguir estos pasos:
 
 ### Instalación del webdriver
 
-        se puede encontrar en este link:
+        Descargar el webdriver en:
        ~$https://chromedriver.chromium.org/downloads
        según la versión de google que se tenga, se debe descargar el chrome que corresponde.
 
