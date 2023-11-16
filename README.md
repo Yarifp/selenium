@@ -27,7 +27,7 @@ Las pruebas se realizaron con las siguientes herramientas y paquetes:
 
  ~$pip install selenium<br>
   Descargar el webdriver en:<br>
-  ~$https://chromedriver.chromium.org/downloads
+  ~$https://chromedriver.chromium.org/downloads<br>
    '''según la versión de google que se tenga, se debe descargar el webdriver que corresponde.'''
 
 
