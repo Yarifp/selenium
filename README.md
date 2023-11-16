@@ -19,24 +19,16 @@ Las pruebas se realizaron con las siguientes herramientas y paquetes:
 - import unittest
 
 
-
-Para instalar selenium hay que seguir estos pasos:
-
-
 ### Estas pruebas se encuentran en github
     ~$https://github.com/Yarifp/selenium.git
 
+### Para instalar selenium hay que seguir estos pasos:
 
-### Instalación de selenium
 
     ~$pip install selenium
-    
-
-### Instalación del webdriver
-
-        Descargar el webdriver en:
-       ~$https://chromedriver.chromium.org/downloads
-       según la versión de google que se tenga, se debe descargar el chrome que corresponde.
+     Descargar el webdriver en:
+    ~$https://chromedriver.chromium.org/downloads
+    '''según la versión de google que se tenga, se debe descargar el webdriver que corresponde.'''
 
 
 
