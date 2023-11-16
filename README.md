@@ -25,20 +25,20 @@ Las pruebas se realizaron con las siguientes herramientas y paquetes:
 ### Para instalar selenium hay que seguir estos pasos:
 
 
-    ~$pip install selenium
-     Descargar el webdriver en:
-    ~$https://chromedriver.chromium.org/downloads
-    '''según la versión de google que se tenga, se debe descargar el webdriver que corresponde.'''
+ ~$pip install selenium
+  Descargar el webdriver en:
+  ~$https://chromedriver.chromium.org/downloads
+   '''según la versión de google que se tenga, se debe descargar el webdriver que corresponde.'''
 
 
 
 ### Verificación de la instalación de selenium levantamiento de la página principal de memo con el webdriver
 ```
-    chrome_driver_path = "/home/vboxuser/Descargas/dchrome/chromedriver"
-    webdriver.chrome.driver = chrome_driver_path
-    driver = webdriver.Chrome()
-    driver.implicitly_wait(10)
-    driver.get("https://memo.mrbotcr.com/")
+chrome_driver_path = "/home/vboxuser/Descargas/dchrome/chromedriver"
+webdriver.chrome.driver = chrome_driver_path
+driver = webdriver.Chrome()
+driver.implicitly_wait(10)
+driver.get("https://memo.mrbotcr.com/")
 
 
 
